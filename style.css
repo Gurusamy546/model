@@ -87,6 +87,9 @@ footer{
     
     
 }
+footer li{
+    margin: 5px;
+}
 footer .container{
     display: flex;
     padding: 5em 0;
